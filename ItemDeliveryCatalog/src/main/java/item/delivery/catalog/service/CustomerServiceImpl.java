@@ -15,7 +15,8 @@ import java.util.List;
 public class CustomerServiceImpl implements CustomerService {
     @Autowired
     private CustomerRepository customerRepository;
-    @Autowired
+
+    @Autowired (required = false)
     private CustomerMapper customerMapper;
 
 

@@ -66,13 +66,13 @@
             <version>${version.mapstruct-lombok}</version>
         </dependency>
 
-        <!-- Item Delivery COMMON LIBS -->
-        <dependency>
-            <groupId>item.delivery.common.libs</groupId>
-            <artifactId>item-delivery-common-libs</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
+<!--        &lt;!&ndash; Item Delivery COMMON LIBS &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>item.delivery.common.libs</groupId>-->
+<!--            <artifactId>item-delivery-common-libs</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--            <scope>compile</scope>-->
+<!--        </dependency>-->
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-eureka-client -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
